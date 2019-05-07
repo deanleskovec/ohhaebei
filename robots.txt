@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://queiriyeme.jamesakeene.com/sitemap.xml
